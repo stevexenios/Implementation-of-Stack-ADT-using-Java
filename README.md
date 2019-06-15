@@ -1,6 +1,6 @@
-TCSS 342 Data Structures
-Assignment 1 – Burger Baron
-Guidelines
+#TCSS 342 Data Structures
+#Assignment 1 – Burger Baron
+##Guidelines
 This assignment consists of programming and written work. Solutions should be a complete
 working Java program including your original work or cited contributions from other sources.
 These files should be compressed in a .zip file for submission through the Canvas link.
